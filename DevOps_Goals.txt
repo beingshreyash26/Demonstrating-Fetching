@@ -1,0 +1,8 @@
+--- Topics to cover in DevOps ---
+
+Git
+GitHub
+Docker
+Kubernetes
+Jenkins
+Azure Devops (building CI/CD Pipelines)
